@@ -40,9 +40,14 @@ let musicName=[
   artist: 'Osman Mir',
   musicPath: '/Music-7.mp3',
   imagePath: '/img-7.jpg',
+},
+
+{
+  songName: 'One Love',
+  artist: 'Subha',
+  musicPath: '/Musci-8.mp3',
+  imagePath: '/img-1.jpg',
 }
-
-
 ]
 
 let play=document.querySelector('.play')

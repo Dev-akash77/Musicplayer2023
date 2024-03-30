@@ -47,7 +47,14 @@ let musicName=[
   artist: 'Subha',
   musicPath: '/Musci-8.mp3',
   imagePath: '/img-1.jpg',
+},
+{
+  songName:'You and Me',
+  artist:'Subha',
+  musicPath:'/Musci-9.mp3',
+  imagePath: '/img-1.jpg',
 }
+
 ]
 
 let play=document.querySelector('.play')
